@@ -1,0 +1,43 @@
+﻿Compilación iniciada a las 16/07/2017 14:43:11.
+     1>Proyecto "F:\Fundamento\final\new\PapuEngine\PapuEngine.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MenuScreen.cpp
+         MenuScreen.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Fundamento\final\new\Debug\PapuEngine.exe" /INCREMENTAL /NOLOGO SDL2.lib SDL2main.lib "CEGUIBase-0_d.lib" "CEGUIOpenGLRenderer-0_d.lib" glew32.lib opengl32.lib Box2D.lib glew32s.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"F:\Fundamento\final\new\Debug\PapuEngine.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Fundamento\final\new\Debug\PapuEngine.lib" /MACHINE:X86 Debug\Agent.obj
+         Debug\App.obj
+         Debug\Bala.obj
+         Debug\Camera2D.obj
+         Debug\Error.obj
+         Debug\Game.obj
+         Debug\GameOverScreen.obj
+         Debug\GamePlayScreen.obj
+         Debug\Global.obj
+         Debug\GLS_Program.obj
+         Debug\GUI.obj
+         Debug\Human.obj
+         Debug\ImageLoader.obj
+         Debug\InputManager.obj
+         Debug\IOManager.obj
+         Debug\Level.obj
+         Debug\main.obj
+         Debug\MainGame.obj
+         Debug\MenuScreen.obj
+         Debug\PapuEngine.obj
+         Debug\picoPNG.obj
+         Debug\Player.obj
+         Debug\ResourceManager.obj
+         Debug\ScreenList.obj
+         Debug\Sprite.obj
+         Debug\SpriteBacth.obj
+         Debug\SpriteFont.obj
+         Debug\TextureCache.obj
+         Debug\Window.obj
+         Debug\Zombie.obj
+         Debug\Zombie2.obj
+         PapuEngine.vcxproj -> F:\Fundamento\final\new\Debug\PapuEngine.exe
+     1>Compilación del proyecto terminada "F:\Fundamento\final\new\PapuEngine\PapuEngine.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:06.27
